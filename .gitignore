@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Weights and Biases
+
+wandb/
+
 # C extensions
 *.so
 
